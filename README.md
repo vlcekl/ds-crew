@@ -1,13 +1,15 @@
 # Project Name: AI Collaborative Agents System
 
 ## Overview
-This project leverages the LangChain and CrewAI frameworks to create a sophisticated AI system composed of specialized agents working collaboratively to perform complex tasks such as statistical/causal analysis and decision-making. By integrating semantic analysis, data preprocessing, statistical modeling, and decision analysis, our system aims to provide comprehensive insights and actionable recommendations from diverse datasets.
+This project leverages the LangChain and CrewAI frameworks to create an AI system composed of specialized agents working collaboratively to perform complex tasks such as statistical/causal analysis and decision-making. By integrating semantic analysis, data preprocessing, statistical modeling, and decision analysis, our system aims to provide comprehensive insights and actionable recommendations from diverse datasets.
 
 ## Features
 - **Modular AI Agents**: Individual agents dedicated to specific tasks like data preprocessing, statistical analysis, causal inference, decision analysis, and semantic analysis.
 - **Collaborative Workflow**: Utilizes CrewAI to enable agents to work together as a team, sharing information and tasks to achieve complex objectives efficiently.
 - **Incremental Knowledge Base Updating**: Supports continuous learning and updating of the system's knowledge base, ensuring decisions are based on the latest available information.
 - **Custom Tools Integration**: Incorporates custom tools for tasks such as data visualization and external data retrieval, enhancing the agents' capabilities.
+
+[Detailed agent descriptions](agents/README.md)
 
 ## Getting Started
 

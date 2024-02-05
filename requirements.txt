@@ -1,0 +1,33 @@
+# Basic data analysis and scientific computing
+numpy>=1.19.2
+pandas>=1.1.3
+scipy>=1.5.2
+
+# Machine Learning and Data Science
+scikit-learn>=0.23.2
+statsmodels>=0.12.0
+
+# For causal analysis
+dowhy>=0.6
+causalml>=0.11.0
+
+# MLFlow for experiment tracking and model lifecycle management
+mlflow>=1.20.2
+
+# For working with Large Language Models (LLMs)
+transformers>=4.9.2
+torch>=2.0.0
+
+# Optional: For advanced data visualization (if needed)
+matplotlib>=3.3.2
+seaborn>=0.11.0
+
+# Optional: For API creation or web app development (if your project requires a web interface)
+flask>=1.1.2
+fastapi>=0.65.2
+uvicorn>=0.14.0
+
+# Optional: Database interaction (if your project involves database operations)
+sqlalchemy>=1.3.20
+psycopg2-binary>=2.8.6  # For PostgreSQL; adjust according to your database
+
