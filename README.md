@@ -19,7 +19,7 @@ Ensure you have Python 3.8+ installed on your system. Some knowledge of LangChai
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourgithubusername/project-name.git
+   git clone https://github.com/vlcekl/ds-crew.git
    ```
 2. Navigate to the project directory:
    ```
@@ -52,8 +52,8 @@ pytest tests/
 
 ## Documentation
 For more detailed information on LangChain and CrewAI, visit the official documentation:
-- LangChain: [LangChain Documentation](https://www.langchain.com/docs)
-- CrewAI: [CrewAI Guide](https://blog.langchain.dev/crewai)
+- LangChain: [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction)
+- CrewAI: [CrewAI Guide](https://docs.crewai.com/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
